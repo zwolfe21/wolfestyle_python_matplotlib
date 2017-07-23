@@ -1,6 +1,8 @@
-#Author: Cameron Davidson-Pilon, original styles from Bayesian Methods for Hackers
-# https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-#Modified by Zachary G Wolfe
+#Author: Zachary G Wolfe, based upon 'bmh' by Cameron Davidson-Pilon.
+#https://github.com/zwolfe21/wolfestyle_python_matplotlib/wiki
+
+#Base Style (bmh) found at : https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
 
 lines.linewidth : 1.00
 font.family : Comfortaa
