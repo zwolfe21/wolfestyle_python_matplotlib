@@ -31,8 +31,8 @@ grid.linestyle: :
 grid.linewidth: 0.5
 
 legend.fancybox: True
-legend.shadow: True
-legend.facecolor: fdfdfd
+legend.shadow: False
+legend.facecolor: eeeeee
 
 xtick.direction: inout
 ytick.direction: inout
